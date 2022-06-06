@@ -8,6 +8,6 @@ public class StartGames {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(new GamePanel());
         frame.setVisible(true);
-
+        
     }
 }
