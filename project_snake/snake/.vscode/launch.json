@@ -9,6 +9,13 @@
             "name": "Launch StartGames",
             "request": "launch",
             "mainClass": "StartGames",
+            "projectName": "snake_aee16ad4"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartGames",
+            "request": "launch",
+            "mainClass": "StartGames",
             "projectName": "snake_5c267c3d"
         },
         {
