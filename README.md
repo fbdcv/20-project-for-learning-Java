@@ -4,5 +4,5 @@
 
 
 
-#### 1.project_snake 	https://www.bilibili.com/video/BV1HE41127CV		
+#### 1. project_snake 	https://www.bilibili.com/video/BV1HE41127CV		
 
